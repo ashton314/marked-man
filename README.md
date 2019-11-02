@@ -3,6 +3,16 @@ Marked Man
 
 View Markdown files as `man` pages.
 
+Get you some markdown:
+
+![Edit file](edit.png "Edit file")
+
+Read it:
+
+![Read comfortably](read.png "Read comfortably")
+
+* * *
+
 This is a simple one liner:
 
 ```bash
